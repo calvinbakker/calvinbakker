@@ -1,14 +1,13 @@
-## Hi there $\ket{🐤}$! 
-
+## Hi there! 👋
 **PhD Candidate** @ [Lorentz Institute, Leiden University](https://www.lorentz.leidenuniv.nl/)  
-**Physicist** | Computational physics | Open-Source software
-
-My interests are in **complex systems**, **emergence**, and **computational tools** to study and visualize. 
+**Physicist** | Computational physics | Open-Source software | 
+My interests are in complex systems, emergence, and computational tools to study and visualize. 
 
 My work spans **statistical physics**, **cellular automata**, **tensor networks**, and **machine learning**.
 
 
 ## 🔬 Research & Interests
+
 - Complex systems & emergent phenomena
 - Computational physics & high-performance computing
 - Tensor networks & machine learning
@@ -46,3 +45,4 @@ If you’re interested in working together, feel free to reach out!
 🌐 **Website:** [calvinbakker.github.io](https://calvinbakker.github.io/)  
 💼 **LinkedIn:** [linkedin.com/in/calvinbakker](https://nl.linkedin.com/in/calvin-bakker-471b70153)
 
+# $\bra{\psi}\hat{\mathcal{A}}\ket{🐤}$    
