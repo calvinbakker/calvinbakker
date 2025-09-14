@@ -22,12 +22,12 @@ A list of projects on my Github:
   - **[calvinbakker.github.io](https://calvinbakker.github.io/)**  
     My personal website with CV.
 - **Work**
-  - CUDA / C++
+  - **CUDA / C++**
     - **[statphys2D_cuda](https://github.com/calvinbakker/statphys2D_cuda)**  
       Compute statistical physics measures for two-dimensional data.
     - **[cpm_nano](https://github.com/calvinbakker/cpm_nano)**  
       Cellular Potts Model simulations specialized for two-dimensional tissues.
-  - Python
+  - **Python**
     - **[compute-okuboweiss-field](https://github.com/calvinbakker/compute-okuboweiss-field)**  
       Compute and visualize stream functions $\psi$ and the Okubo–Weiss field $Q$.
     - **[conversion-factor-for-shape-index](https://github.com/calvinbakker/conversion-factor-for-shape-index)**  
