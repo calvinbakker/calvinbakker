@@ -1,4 +1,4 @@
-## Hi there! $\ket{\psi}$
+## Hi there! $\braket{\psi|👋}$
 **PhD Candidate** @ [Lorentz Institute, Leiden University](https://www.lorentz.leidenuniv.nl/)  
 **Physicist** | Computational physics | Open-Source software | 
 My interests are in complex systems, emergence, and computational tools to study and visualize. 
