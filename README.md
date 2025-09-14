@@ -8,14 +8,15 @@ My interests are in **complex systems**, **emergence**, and **computational tool
 My work spans **statistical physics**, **cellular automata**, **tensor networks**, and **machine learning**.
 
 
-### 🔬 Research & Interests
+## 🔬 Research & Interests
 - Complex systems & emergent phenomena
 - Computational physics & high-performance computing
 - Tensor networks & machine learning
 - Scientific software design
 
 
-### 📂 Projects
+## 📂 Projects
+A list of projects on my Github:
 - **Personal**
   - **[catnip🐈🐈‍⬛](https://github.com/calvinbakker/catnip)**  
     Cellular automata Tensor Networks in NumPy (code written for my MSc thesis at the University of Amsterdam).
@@ -43,5 +44,5 @@ I’m always open to:
 If you’re interested in working together, feel free to reach out!   
 📧 **Email:** bakker@lorentz.leidenuniv.nl  
 🌐 **Website:** [calvinbakker.github.io](https://calvinbakker.github.io/)  
-💼 **LinkedIn:** [linkedin.com/in/calvin-bakker](https://nl.linkedin.com/in/calvin-bakker-471b70153)
+💼 **LinkedIn:** [linkedin.com/in/calvinbakker](https://nl.linkedin.com/in/calvin-bakker-471b70153)
 
