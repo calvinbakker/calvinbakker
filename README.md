@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! $\ket{🐤}$
 **PhD Candidate** @ [Lorentz Institute, Leiden University](https://www.lorentz.leidenuniv.nl/)  
 **Physicist** | Computational physics | Open-Source software | 
 My interests are in complex systems, emergence, and computational tools to study and visualize. 
