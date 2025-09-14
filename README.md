@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hi there! $\ket{\psi}$
 **PhD Candidate** @ [Lorentz Institute, Leiden University](https://www.lorentz.leidenuniv.nl/)  
 **Physicist** | Computational physics | Open-Source software | 
 My interests are in complex systems, emergence, and computational tools to study and visualize. 
@@ -37,12 +37,10 @@ A list of projects on my Github:
 ## 🤝 Collaboration
 I’m always open to:
 - Collaborating on open-source software
-- Applying physics methods to new domains
-- Discussing high-performance computing, tensor networks, or complex systems
+- Discussing high-performance computing, tensor networks, and complex systems
 
 If you’re interested in working together, feel free to reach out!   
 📧 **Email:** bakker@lorentz.leidenuniv.nl  
 🌐 **Website:** [calvinbakker.github.io](https://calvinbakker.github.io/)  
 💼 **LinkedIn:** [linkedin.com/in/calvinbakker](https://nl.linkedin.com/in/calvin-bakker-471b70153)
 
-# $\bra{\psi}\hat{\mathcal{A}}\ket{🐤}$    
