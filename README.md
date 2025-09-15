@@ -8,9 +8,8 @@ My work spans **statistical physics**, **cellular automata**, **tensor networks*
 
 ## 🔬 Research & Interests
 
-- Complex systems & emergent phenomena
-- Computational physics & high-performance computing
-- Tensor networks & machine learning
+- Computational biophysics and statistical physics 
+- Visualization & high-performance computing
 - Scientific software design
 
 
