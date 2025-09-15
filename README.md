@@ -6,8 +6,10 @@ My interests are in complex systems, emergence, and computational tools to study
 My work spans **statistical physics**, **cellular automata**, **tensor networks**, and **machine learning**.
 
 
-## 🔬 Research & Interests
+## 🔬 Research 
+I work on large-scale simulations of biological cells in the research group of [prof. Luca Giomi](https://www.universiteitleiden.nl/en/staffmembers/luca-giomi). Our goal is to understand biological matter through the lens of statistical physics using concepts like phase transitions, where order parameters and correlation functions are key tools. We study properties of cells like the geometry and topology, liquid-crystal order, and collective motion.
 
+Current specializations:
 - Computational biophysics and statistical physics 
 - Visualization & high-performance computing
 - Scientific software design
