@@ -36,7 +36,7 @@ A list of projects on my Github:
 
 
 ## 🤝 Collaboration
-I’m always open to:
+I’m open for:
 - Collaborating on open-source software 
 - Discussing high-performance computing, tensor networks, and complex systems
 
